@@ -26,7 +26,7 @@ Hospital Management System using MySQL, Php, and Bootstrap.
 6. In phpmyadmin page, create a new database from the left panel and name it as 'myhmsdb'
 7. Import the file 'myhmsdb.sql' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/foldername' in the URL of your browser.
-9. Hurray! That's it!
+
 
 ## Starting Apache And MySQL in XAMPP:
 
